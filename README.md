@@ -24,4 +24,4 @@
 - Целеустремленный
 - Ответственный
 
-![Фотограффия](_0QrYXyOKRI.jpg)
+![alt text](paul-skorupskas-7KLa-xLbSXA-unsplash-2.webp)
